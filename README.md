@@ -1,7 +1,8 @@
 # NetflixWrapped
 A Java program that takes your Netflix watch history as an input and can show you watching habits and your top shows/movies.
 
-*Must have Java installed
+Must have Java installed.
+
 How to run:
 1. Install this repository.
 2. Go to your Netflix account
